@@ -1,0 +1,82 @@
+body {
+    text-align: center;
+    color: white;
+    background-size: cover;
+    background-image: url('junior-reis-48YwNFr2UmE-unsplash.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.nav {
+    margin: 0 15px;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+.nav:hover {
+    background-color: white;
+    color: yellowgreen;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(156, 24, 24);
+}
+
+.menu {
+    box-shadow: inset 0 0 0 1000px rgba(30, 124, 18, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    width: 380px;
+    height: 200px;
+    background-color: black;
+    justify-content: center;
+}
+
+.menu-table {
+    padding-left: 30%;
+    color: white;
+    align-content: center;
+    justify-content: center;
+}
+
+.num {
+    text-decoration: none;
+}
+
+.home, .men {
+    text-decoration: none;
+    color: white;
+    margin: 20%;
+}
+
+.map {
+    text-decoration: none;
+    margin-top: 50%;
+    color: teal;
+    font-size: large;
+}
+
+.map:hover {
+    color: white;
+}
+
+.social {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 20px 0;
+}
+.ren  {
+    color: black;
+    font-weight: 600;
+     font-size: 30px;
+     font-family: Arial, Helvetica, sans-serif;
+     
+}
